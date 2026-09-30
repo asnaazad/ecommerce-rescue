@@ -1,0 +1,54 @@
+Top 10 largest file inside:
+28 ./server-report.txt 
+0 ./website/customer/js/shop.js 
+0 ./website/customer/home.html 
+0 ./website/customer/css/main.css 
+0 ./website/api/controllers/inventory.json 
+0 ./website/admin/users/users.json 
+0 ./website/admin/config/api.conf 
+0 ./reports/INSTALL.md 
+0 ./monitoring/server-report.txt 
+0 ./monitoring/audit.log 
+Disk usage:
+4.0K	assets/
+4.0K	automation/
+4.0K	backups/
+4.0K	monitoring/
+4.0K	reports/
+52K	website/
+all json files:
+./website/admin/users/users.json
+./website/api/controllers/inventory.json
+files modified in last 24 hour:
+./reports/INSTALL.md
+./monitoring/server-report.txt
+./monitoring/audit.log
+./backups/restore.sql
+./automation/deploy-prod.sh
+./server-repot.txt
+./server-report.txt
+./website/admin/users/users.json
+./website/admin/config/api.conf
+./website/api/controllers/inventory.json
+./website/customer/css/main.css
+./website/customer/js/shop.js
+./website/customer/home.html
+./serve-report.txt
+empty files:
+./reports/INSTALL.md
+./monitoring/server-report.txt
+./monitoring/audit.log
+./backups/restore.sql
+./automation/deploy-prod.sh
+./website/admin/users/users.json
+./website/admin/config/api.conf
+./website/api/controllers/inventory.json
+./website/customer/css/main.css
+./website/customer/js/shop.js
+./website/customer/home.html
+empty directories:
+./assets
+./website/admin/dashboard
+./website/api/routes
+./website/api/logs
+./website/customer/products

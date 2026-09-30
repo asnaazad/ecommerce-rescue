@@ -1,0 +1,14 @@
+./reports/INSTALL.md
+./monitoring/server-report.txt
+./monitoring/audit.log
+./backups/restore.sql
+./automation/deploy-prod.sh
+./server-repot.txt
+./server-report.txt
+./website/admin/users/users.json
+./website/admin/config/api.conf
+./website/api/controllers/inventory.json
+./website/customer/css/main.css
+./website/customer/js/shop.js
+./website/customer/home.html
+./serve-report.txt
